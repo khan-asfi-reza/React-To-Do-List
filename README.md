@@ -1,3 +1,12 @@
+# A simple todo list with React
+
+## Features
+
+1. Saves the todo list in localstorage
+
+2. Auto add time of todo list creation
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
